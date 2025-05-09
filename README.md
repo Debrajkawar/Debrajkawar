@@ -6,15 +6,11 @@
             </a> 
     --->
 </p>
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Devraj!;" />
 </h1>
- 
-<h2 align="center">I am a passionate Web developer and Designer.</h2>
+ <h2 align="center">I am a passionate Web developer and Designer.</h2>
 <br/>
-
- 
 <hr/>
 <picture>
   <source
@@ -32,12 +28,9 @@
 </picture>
 
 ## 🎯 **Let’s Explore **
-
 Feel free to reach out for **freelance projects**, **collaborations**, or just to chat about design and development! Let’s make something amazing together. 💥
-
 - 📧 **Email**: info@dk1153672@gmail.com
 ---
-
 <br>
 <h3 align ="center">
 🎉 Thank You for Checking Out the Project!
